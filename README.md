@@ -66,6 +66,7 @@ Year- 2025
 
 ### Business Insights
 
+[Insights](https://github.com/AKINTOYE-IGBAGBO/AnalystLab--ShopMart-Retail-Analysis/blob/main/WEEK_1_IGBAGBO_IFEOLUWA_ShopSmart_Business%20Report%20(1).pdf)
 
 ### Data Visualisation
 
