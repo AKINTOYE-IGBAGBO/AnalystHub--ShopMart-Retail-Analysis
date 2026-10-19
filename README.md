@@ -6,6 +6,8 @@ Dataset; 10
 [Raw Dataset and Data Dictionary](https://github.com/AKINTOYE-IGBAGBO/AnalystLab--ShopMart-Retail-Analysis/tree/main/ANALYST%20HUB%20WK1)
 
 What each data set Represent [Dataset Understanding](https://github.com/AKINTOYE-IGBAGBO/AnalystLab--ShopMart-Retail-Analysis/blob/main/Week_1_IGBAGB0_IFEOLUWA_ShopMartRetail_DataUnderstanding.docx)
+
+
 Customers -	5000
 
 Products	- 500
