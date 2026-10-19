@@ -76,8 +76,7 @@ This is aimed to understand and analyze the sales.
 
 ### Data Visualisation
 
-[Data Visualisation](https://github.com/AKINTOYE-IGBAGBO/AnalystLab--ShopMart-Retail-Analysis/blob/main/WEEK_IGBAGBO_IFEOLUWA_DASHBOARD.png)
-
+[Data Visualisation](https://github.com/AKINTOYE-IGBAGBO/AnalystLab--ShopMart-Retail-Analysis/blob/main/WEEK__1_AKINTOYE_IGBAGBO_DASHBOARD.jpg)
 
 ### Author
 **Akintoye Igbagbo**
