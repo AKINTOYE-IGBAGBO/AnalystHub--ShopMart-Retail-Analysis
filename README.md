@@ -64,6 +64,8 @@ Year- 2025
 |Checking for duplicate rows                      | No duplicates found                                                   |
 
 
+[Cleaned data](https://github.com/AKINTOYE-IGBAGBO/AnalystLab--ShopMart-Retail-Analysis/blob/main/WEEK1_IGBAGBO_IFEOLUWA_CLEANEDDATA.xlsx)
+
 ### Pivot Tables
 This is aimed to understand and analyze the sales.
 
