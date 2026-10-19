@@ -5,7 +5,7 @@
 Dataset; 10
 [Raw Dataset and Data Dictionary](https://github.com/AKINTOYE-IGBAGBO/AnalystLab--ShopMart-Retail-Analysis/tree/main/ANALYST%20HUB%20WK1)
 
-What each data set Represent
+What each data set Represent [Dataset Understanding](https://github.com/AKINTOYE-IGBAGBO/AnalystLab--ShopMart-Retail-Analysis/blob/main/Week_1_IGBAGB0_IFEOLUWA_ShopMartRetail_DataUnderstanding.docx)
 
 Customers -	5000
 
@@ -64,18 +64,19 @@ Year- 2025
 |Checking for duplicate rows                      | No duplicates found                                                   |
 
 
-### Business Insights
+### Pivot Tables
+This is aimed to understand and analyze the sales.
 
-[Insights](https://github.com/AKINTOYE-IGBAGBO/AnalystLab--ShopMart-Retail-Analysis/blob/main/WEEK_1_IGBAGBO_IFEOLUWA_ShopSmart_Business%20Report%20(1).pdf)
+[Pivot Tables]()
+
+
+### Business Insights and Reccommendation
+
+[Insights and Reccommendation](https://github.com/AKINTOYE-IGBAGBO/AnalystLab--ShopMart-Retail-Analysis/blob/main/WEEK_1_IGBAGBO_IFEOLUWA_ShopSmart_Business%20Report%20(1).pdf)
 
 ### Data Visualisation
 
 [Data Visualisation](https://github.com/AKINTOYE-IGBAGBO/AnalystLab--ShopMart-Retail-Analysis/blob/main/WEEK_IGBAGBO_IFEOLUWA_DASHBOARD.png)
-
-
-
-### Business Recommendation
-
 
 
 ### Author
