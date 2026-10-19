@@ -85,5 +85,4 @@ This is aimed to understand and analyze the sales.
 **Akintoye Igbagbo**
 
 **LinkedIn** - 
-[linkedin](https://www.linkedin.com/in/igbagbo-akintoye-5344a7ba?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-
+[LinkedIn](www.linkedin.com/in/igbagbo-akintoye-5344a7ba)
