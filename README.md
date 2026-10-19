@@ -69,7 +69,7 @@ Year- 2025
 ### Pivot Tables
 This is aimed to understand and analyze the sales.
 
-[Pivot Tables]()
+[Pivot Tables](https://github.com/AKINTOYE-IGBAGBO/AnalystLab--ShopMart-Retail-Analysis/blob/main/PIVOT%20TABLE.xlsx)
 
 
 ### Business Insights and Reccommendation
@@ -83,4 +83,6 @@ This is aimed to understand and analyze the sales.
 ### Author
 **Akintoye Igbagbo**
 
-**LinkedIn** -
+**LinkedIn** - 
+[linkedin](https://www.linkedin.com/in/igbagbo-akintoye-5344a7ba?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
